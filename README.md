@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, n</h1>
 
 <p align="center">
 
